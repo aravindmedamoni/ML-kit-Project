@@ -1,7 +1,7 @@
 # ML-kit-Project
 This repository contains two applications which are Face detection and Text detection
 # FACE DETECTION APP
-**when you open the app in the mobile it will open the home screen.**
+**when you open the app in the mobile the home screen will appear.**
 ## Home Screen
 ![First screen](Images/screen1.jpeg)
 
