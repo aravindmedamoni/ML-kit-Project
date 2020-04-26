@@ -6,10 +6,16 @@ By using this app we can captures the images, and it tell us weather it is human
 
 **when you open the app in the mobile the home screen will appear.**
 
- Home Screen | Camera Screen | Image Screen | No face detection Screen | face detection Screen | Result Screen
- :-------:|:----------:|:----------:|:---------:|:-----------:|:-------------:
-<img src="Images/homescreen.jpeg" alt="Home Screen" width="240" height="340"> | <img src="Images/camerascreen.jpeg" alt="Home Screen" width="240" height="340"> | <img src="Images/imageshort.jpeg" alt="Home Screen" width="240" height="340"> | <img src="Images/notfacedetectescreen.jpeg" alt="Home Screen" width="240" height="340"> | <img src="Images/imagewithfacescreen.jpeg" alt="Home Screen" width="240" height="340"> | <img src="Images/resultscreen.jpeg" alt="Home Screen" width="240" height="340">
-There is a Button With the name open camera<br>if you click the Button the Camera will open| Next we have to take pictires using camera | if it is not detecting any face in <br>the image it will display the below screen | the image with human face | If it detects any face in the image it will <br>give the result like below screen | if you click the OK button the home<br> screen will display
+ Home Screen | Camera Screen | Image Screen 
+ :-------:|:----------:|:----------:|
+<img src="Images/homescreen.jpeg" alt="Home Screen" width="240" height="380"> | <img src="Images/camerascreen.jpeg" alt="Home Screen" width="240" height="380"> | <img src="Images/imageshort.jpeg" alt="Home Screen" width="240" height="380"> | 
+There is a Button With the name open camera<br>if you click the Button the Camera will open| Next we have to take pictires using camera | if it is not detecting any face in <br>the image it will display the below screen |
+
+ No face detection Screen | face detection Screen | Result Screen
+ :---------:|:-----------:|:-------------:
+ <img src="Images/notfacedetectescreen.jpeg" alt="Home Screen" width="240" height="380"> | <img src="Images/imagewithfacescreen.jpeg" alt="Home Screen" width="240" height="380"> | <img src="Images/resultscreen.jpeg" alt="Home Screen" width="240" height="380">
+  the image with human face | If it detects any face in the image it will <br>give the result like below screen | if you click the OK button the home<br> screen will display
+
 
 ## Technology Stack
 
